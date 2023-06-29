@@ -4,10 +4,16 @@
 <br />
 
 ## 📁 파일 구조
+>프로그래머스
 * 자신의 프로필 ID / 플랫폼 이름 / 카카오기출년도 / 알고리즘 분류/ 문제번호 문제이름.py(or md) 원칙
   * `ex) mingsound/Programmers/카카오2023/그래프/10323 섬의개수.py`
 * 문제번호
   * 프로그래머스: URL 끝에 숫자 (https://programmers.co.kr/learn/courses/30/lessons/42840 -> 42840)
+
+>백준
+* 자신의 프로필 ID / 플랫폼 이름 / 알고리즘 분류/ 문제번호 문제이름.py(or md) 원칙
+  * `ex) mingsound/Backjoon/구현/10323 섬의개수.py`
+
   
 <br />
 

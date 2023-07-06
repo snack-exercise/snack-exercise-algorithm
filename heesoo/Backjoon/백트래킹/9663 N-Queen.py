@@ -1,3 +1,4 @@
+# 풀이 참고
 n=int(input())
 
 ans=0
@@ -12,7 +13,6 @@ def check(x):
 
 def solution(x):
     global ans
-    print(x,':',row)
     if x==n:
         ans+=1
         return

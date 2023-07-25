@@ -8,7 +8,7 @@ dice = [0,0,0,0,0,0] # [1, 2, 3, 4, 5, 6]
 dx = [0, 0, -1, 1]
 dy = [1, -1, 0, 0]
 
-def turn(dir):기
+def turn(dir):
     global dice
     a, b, c, d, e, f = dice
 

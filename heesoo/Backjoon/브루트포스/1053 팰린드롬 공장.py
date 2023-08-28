@@ -27,4 +27,3 @@ for i in range(n):
     sarr[i],sarr[j] = sarr[j],sarr[i]
 
 print(result)
-

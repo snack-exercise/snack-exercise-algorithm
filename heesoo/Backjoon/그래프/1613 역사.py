@@ -15,17 +15,11 @@ for i in range(n+1):
                 arr[j][t]=1
 
 s=int(ip())
-ans=[]
 for _ in range(s):
     a,b=map(int,ip().split())
     if arr[a][b]==1:
-        print(1)
-        ans.append(1)
-    elif arr[b][a]==1:
         print(-1)
-        ans.append(-1)
+    elif arr[b][a]==1:
+        print(1)
     else:
         print(0)
-        ans.append(0)
-    
-print(ans)
